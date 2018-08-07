@@ -174,7 +174,7 @@ if (isset($_POST['submit'])) {
                 </form>
             </div>
             <br>
-            <div class="col-lg-offset-1 col-lg-1 col-md-3" style="margin-left:4%; margin-right: 1%;">
+            <div class="col-lg-offset-1 col-lg-1 col-md-3" style="margin-left:4%; margin-right: 9%;">
 				<div class="wrapper">
     				<div class="line"></div>
     				<div class="wordwrapper">
