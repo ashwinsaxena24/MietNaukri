@@ -174,15 +174,14 @@ if (isset($_POST['submit'])) {
                 </form>
             </div>
             <br>
-            <div class="col-lg-offset-1 col-lg-1 col-md-3">
-                <div class="wrapper">
-                    <div class="line"></div>
-                    <div class="wordwrapper">
-                        <div class="word">or</div>
-                    </div>
-                </div>
-            </div>
-
+            <div class="col-lg-offset-1 col-lg-1 col-md-3" style="margin-left:4%; margin-right: 1%;">
+				<div class="wrapper">
+    				<div class="line"></div>
+    				<div class="wordwrapper">
+        			<div class="word">or</div>                                        
+    				</div>
+				</div>
+			</div>
             <div class="col-lg-offset-1 col-lg-3 col-md-3" style="padding-top: 7%;">
                 <h2>Upload Resume without Signin</h2>
                 <form action="signup.html" method="post">
